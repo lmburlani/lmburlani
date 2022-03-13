@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho com Data Science
 - 🌱 Estou estudando HTML, CSS, Django
-- 📫 Contate-me no linkedin: https://www.linkedin.com/in/luiz-mauricio-burlani/
+- 📫 Contate-me no linkedin: www.linkedin.com/in/luiz-burlani
 
 <div align="center">
   <a href="https://github.com/lmburlani">
