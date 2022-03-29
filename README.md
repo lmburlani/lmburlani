@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente trabalho com Data Science
-- 🌱 Estou estudando Django, Node.js
+- 🌱 Estou estudando Django, Node.js, Ruby
 - 📫 Contate-me no linkedin: www.linkedin.com/in/luiz-burlani
 
 <div align="center">
