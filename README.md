@@ -1,5 +1,4 @@
-### Olá sou o Luiz, sou Data Scientist e dev back end (que sabe um pouco de front).
-
+### Olá sou o Luiz, sou Data Scientist e dev back end nas horas vagas.
 
 
 - 🔭 Atualmente trabalho com Engenharia de Dados
