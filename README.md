@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente trabalho com Data Science
-- 🌱 Estou estudando Data Engineer
+- 🔭 Atualmente trabalho com Engenharia de Dados
+- 🌱 Estou priorizando meus estudos em Computação na Nuvem
 - 📫 Contate-me no linkedin: www.linkedin.com/in/luiz-burlani
 
 <div align="center">
