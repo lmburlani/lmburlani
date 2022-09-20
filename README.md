@@ -1,4 +1,4 @@
-### Olá sou o Luiz, sou Data Scientist e dev back end nas horas vagas.
+### Olá sou o Luiz, sou Data Professional e Dev Back End nas horas vagas.
 
 
 - 🔭 Atualmente trabalho com Engenharia de Dados
