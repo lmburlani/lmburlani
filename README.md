@@ -1,8 +1,8 @@
-### Olá sou o Luiz, sou Data Professional e Dev Back End nas horas vagas.
+### Olá sou o Luiz, sou um Data Professional.
 
 
 - 🔭 Atualmente trabalho com Engenharia de Dados
-- 🌱 Estou priorizando meus estudos em Computação na Nuvem
+- 🌱 Estou priorizando meus estudos em Computação na Nuvem e C#
 - 📫 Contate-me no linkedin: www.linkedin.com/in/luiz-burlani
 
 <div align="center">
