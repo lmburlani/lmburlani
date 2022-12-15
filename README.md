@@ -1,7 +1,7 @@
 ### Olá sou o Luiz, sou um Data Professional.
 
 
-- 🔭 Atualmente trabalho com Engenharia de Dados
+- 🔭 Atualmente trabalho com Engenharia de Dados e Análise de Dados
 - 🌱 Estou priorizando meus estudos em Computação na Nuvem e C#
 - 📫 Contate-me no linkedin: www.linkedin.com/in/luiz-burlani
 
