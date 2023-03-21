@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com Engenharia de Dados e Análise de Dados
-- 🌱 Estou priorizando meus estudos em Computação na Nuvem e C#
+- 🌱 Estou priorizando meus estudos em Computação na Nuvem e Big Data
 - 📫 Contate-me no linkedin: www.linkedin.com/in/luiz-burlani
 
 <div align="center">
