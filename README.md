@@ -7,7 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/lmburlani">
-  <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmburlani&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmburlani&layout=compact&langs_count=7&theme=dark" style="display: inline-block;"/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Jy" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
