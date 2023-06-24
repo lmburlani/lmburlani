@@ -5,10 +5,6 @@
 - 🌱 Estou priorizando meus estudos em Computação na Nuvem e Scala
 - 📫 Contate-me no linkedin: www.linkedin.com/in/luiz-burlani
 
-<div align="center">
-  <a href="https://github.com/lmburlani">
-<div style="text-align: right;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmburlani&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Jy" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
