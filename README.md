@@ -1,17 +1,21 @@
-### Olá sou o Luiz, sou um Data Professional.
+### Olá! Sou **Luiz Burlani**, um Data Professional.
 
+---
 
-- 🔭 Atualmente trabalho com Engenharia de Dados e Análise de Dados
-- 🌱 Estou priorizando meus estudos em Computação na Nuvem e Scala
-- 📫 Contate-me no linkedin: www.linkedin.com/in/luiz-burlani
+### Minha Atuação e Foco
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Jy" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Luiz-Py" height="80" width="90"  <img align="center" alt="Luiz-Dj" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Luiz-PSQL" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Luiz-R" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Luiz-js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Luiz-js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg">
-  
-</div>
+* 🔭 **Engenharia de Dados & Análise de Dados:** Atualmente, atuo na interseção de Engenharia e Análise de Dados, transformando **dados brutos em *insights* estratégicos** e construindo pipelines robustos.
+* 🌱 **Desenvolvimento Contínuo:** Meu foco de estudo atual está em **Large Language Models (LLMs)** e suas aplicações práticas para resolver problemas complexos.
+* 🤝 **Conecte-se:** Para colaborações ou um bate-papo sobre Data, encontre-me no LinkedIn: [www.linkedin.com/in/luiz-burlani](https://www.linkedin.com/in/luiz-burlani)
+
+---
+
+### 🛠️ Minhas Ferramentas de Trabalho e Estudo
+
+<p align="left">
+    <img alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
+    <img alt="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+    <img alt="Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter">
+    <img alt="R" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R">
+    <img alt="LangChain" height="50" width="60" src="https://img.shields.io/badge/LangChain-0.0-black?style=flat&logo=chainlink&logoColor=green" title="LangChain/LangGraph">
+    </p>
