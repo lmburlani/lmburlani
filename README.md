@@ -4,9 +4,9 @@
 
 ### Minha Atuação e Foco
 
-* 🔭 **Engenharia de Dados & Análise de Dados:** Atualmente, atuo na interseção de Engenharia e Análise de Dados, transformando **dados brutos em *insights* estratégicos** e construindo pipelines robustos.
-* 🌱 **Desenvolvimento Contínuo:** Meu foco de estudo atual está em **Large Language Models (LLMs)** e suas aplicações práticas para resolver problemas complexos.
-* 🤝 **Conecte-se:** Para colaborações ou um bate-papo sobre Data, encontre-me no LinkedIn: [www.linkedin.com/in/luiz-burlani](https://www.linkedin.com/in/luiz-burlani)
+* 🔭 **Engenharia de Dados & Análise de Dados:** Trabalho na interseção entre engenharia e análise de dados, transformando dados brutos em insights e construindo pipelines robustos.
+* 🌱 **Desenvolvimento Contínuo:** Meu foco de estudo atual está em **Large Language Models (LLMs)** e suas aplicações práticas para soluções de problemas.
+* 🤝 **Conecte-se:** Meu LinkedIn: [www.linkedin.com/in/luiz-burlani](https://www.linkedin.com/in/luiz-burlani)
 
 ---
 
