@@ -4,7 +4,7 @@ Trabalho com o ciclo completo de dados, construo pipelines, analiso informaçõe
 
 **No momento:** Estudando LLMs e como aplicar isso em problemas reais de dados.
 
-**Conecta comigo:** [linkedin.com/in/luiz-burlani](https://www.linkedin.com/in/luiz-burlani)
+**Contato:** [linkedin.com/in/luiz-burlani](https://www.linkedin.com/in/luiz-burlani)
 
 ---
 
