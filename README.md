@@ -1,4 +1,4 @@
-### Olá! Sou o Luiz Burlani.
+### Olá! Sou Luiz Burlani, profissional de dados.
 
 Trabalho com o ciclo completo de dados, construo pipelines, analiso informações e desenvolvo modelos de machine learning, pego dados brutos e transformo em soluções que geram valor, seja através de pipelines, dashboards ou modelos em produção.
 
