@@ -1,12 +1,10 @@
-### Olá! Sou **Luiz Burlani**, um Data Professional.
+### Olá! Sou o Luiz Burlani.
 
----
+Trabalho com o ciclo completo de dados, construo pipelines, analiso informações e desenvolvo modelos de machine learning, pego dados brutos e transformo em soluções que geram valor, seja através de pipelines, dashboards ou modelos em produção.
 
-### Minha Atuação e Foco
+**No momento:** Estudando LLMs e como aplicar isso em problemas reais de dados.
 
-* 🔭 **Engenharia de Dados & Análise de Dados:** Trabalho na interseção entre engenharia e análise de dados, transformando dados brutos em insights e construindo pipelines robustos.
-* 🌱 **Desenvolvimento Contínuo:** Meu foco de estudo atual está em **Large Language Models (LLMs)** e suas aplicações práticas para soluções de problemas.
-* 🤝 **Conecte-se:** Meu LinkedIn: [www.linkedin.com/in/luiz-burlani](https://www.linkedin.com/in/luiz-burlani)
+**Conecta comigo:** [linkedin.com/in/luiz-burlani](https://www.linkedin.com/in/luiz-burlani)
 
 ---
 
