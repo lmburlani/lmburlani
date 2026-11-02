@@ -16,6 +16,6 @@ Trabalho na interseção entre análise de produto e ciência de dados. Meu foco
   <img alt="Scikit-Learn" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn">
   <img alt="Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter">
   <img alt="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
-  <img alt="Apache Airflow" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" title="Airflow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
   <img alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
 </p>
